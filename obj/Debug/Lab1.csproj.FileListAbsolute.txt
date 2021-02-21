@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\bin\Debug\Lab1.exe
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.exe
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.MyPainter.resources
+C:\Users\Lenovo\Desktop\БГУИР\2 курс\семестр 2\ООТПиСП\Lab1\obj\Debug\Lab1.Figure.resources
